@@ -1,4 +1,4 @@
- m # Caue de Lima Sequeira
+ # Caue de Lima Sequeira
 
 Com formação técnica em informática e depois em Engenharia de Produção, acabei não seguindo com a área da Tecnologia.
 Ao completar 30 anos de idade em 2024, comecei minha pós Graduação em Análise e Desenvolvimento de Sistemas e junto a isso, participando de Bootcamps para aprimorar meus conhecimentos. 
