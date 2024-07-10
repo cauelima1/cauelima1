@@ -30,11 +30,6 @@ Sinta-se a vontade para sugerir ideias e dicas profissionais.
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-
-
 
 ## Minhas Contribuições
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauelima1&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
