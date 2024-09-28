@@ -4,11 +4,18 @@
 
 - Técnico em Informatica
 - Engenharia de Produção
-- Pós em Análise e Desenvolvimento de Sistemas
+- Pós Graduação em Análise e Desenvolvimento de Sistemas
 
-Após 15 anos trabalhando em outras áreas, estou retornando aos estudos em programação para futuramente conseguir uma oportunidade nesta nova jornada.
+## Sobre mim
 
-Sinta-se a vontade para sugerir ideias e dicas profissionais. 
+Com bastante experiência na área de TI, sou formado em técnico de informática e acabei optando na época em trabalhar como Suporte. Os anos se passaram e a vida me levou para vários caminhos... passei por Suporte TI, operação de DataCenter, rotinas de backup e etc. Cansado da área de suporte, consegui uma oportunidade em uma outra área de trabalho, onde permaneci por 7 anos trabalhando com logística, porém nunca perdi a vontade de ser um programador de verdade.
+
+Passei por uma longa jornada até que ao completar 30 anos de idade percebi que deveria trabalhar com algo que me interessasse de verdade. 
+
+Devido a esse choque de realidade, retornei aos estudos e venho me aprimorando cada vez mais para alcançar uma oportunidade como desenvolvedor.
+
+Minha vontade é trabalhar com Backend, mais precisamente comn Java, onde venho aprimorando minhas habilidades cada vez mais. 
+
 
 ## Conecte-se comigo
 
