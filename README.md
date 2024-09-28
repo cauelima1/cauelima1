@@ -14,7 +14,7 @@ Passei por uma longa jornada até que ao completar 30 anos de idade percebi que 
 
 Devido a esse choque de realidade, retornei aos estudos e venho me aprimorando cada vez mais para alcançar uma oportunidade como desenvolvedor.
 
-Minha vontade é trabalhar com Backend, mais precisamente comn Java, onde venho aprimorando minhas habilidades cada vez mais. 
+Minha vontade é trabalhar com Backend, mais precisamente com Java, onde venho aprimorando minhas habilidades cada vez mais. 
 
 
 ## Conecte-se comigo
