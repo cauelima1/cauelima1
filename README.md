@@ -8,13 +8,8 @@
 
 ## Sobre mim
 
-Com bastante experiência na área de TI, sou formado em técnico de informática e acabei optando na época em trabalhar como Suporte. Os anos se passaram e a vida me levou para vários caminhos... passei por Suporte TI, operação de DataCenter, rotinas de backup e etc. Cansado da área de suporte, consegui uma oportunidade em uma outra área de trabalho, onde permaneci por 7 anos trabalhando com logística, porém nunca perdi a vontade de ser um programador de verdade.
-
-Passei por uma longa jornada até que ao completar 30 anos de idade percebi que deveria trabalhar com algo que me interessasse de verdade. 
-
-Devido a esse choque de realidade, retornei aos estudos e venho me aprimorando cada vez mais para alcançar uma oportunidade como desenvolvedor.
-
-Minha vontade é trabalhar com Backend, mais precisamente com Java, onde venho aprimorando minhas habilidades cada vez mais. 
+ experiência em Tecnologia da Informação, formado como Técnico em Informática. Iniciou sua carreira atuando com suporte técnico, operação de Data Center e rotinas de backup, adquirindo uma visão ampla da infraestrutura de TI. Posteriormente, expandiu seu repertório atuando por 7 anos na área de logística, mantendo sempre o interesse e dedicação à tecnologia.
+Aos 30 anos, decidiu retomar sua trajetória na área de desenvolvimento, investindo consistentemente em sua formação com foco em Backend, especialmente na linguagem Java. Comprometido em evoluir como desenvolvedor, busca aplicar seus conhecimentos técnicos e experiências multidisciplinares em desafios que envolvam soluções robustas e escaláveis.
 
 
 ## Conecte-se comigo
