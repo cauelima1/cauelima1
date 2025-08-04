@@ -8,9 +8,7 @@
 
 ## Sobre mim
 
- experiência em Tecnologia da Informação, formado como Técnico em Informática. Iniciou sua carreira atuando com suporte técnico, operação de Data Center e rotinas de backup, adquirindo uma visão ampla da infraestrutura de TI. Posteriormente, expandiu seu repertório atuando por 7 anos na área de logística, mantendo sempre o interesse e dedicação à tecnologia.
-Aos 30 anos, decidiu retomar sua trajetória na área de desenvolvimento, investindo consistentemente em sua formação com foco em Backend, especialmente na linguagem Java. Comprometido em evoluir como desenvolvedor, busca aplicar seus conhecimentos técnicos e experiências multidisciplinares em desafios que envolvam soluções robustas e escaláveis.
-
+Desenvolvedor com experiência em Java, JavaScript e Spring Boot. Domínio em MySQL, automação com Excel e integração de sistemas. Conhecimentos em AWS, Git/GitHub e metodologias ágeis (Scrum, Kanban, Lean). Atuação também em redes e manutenção de hardware.
 
 ## Conecte-se comigo
 
