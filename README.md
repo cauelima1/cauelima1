@@ -24,13 +24,19 @@ Desenvolvedor com experiência em Java, JavaScript e Spring Boot. Domínio em My
 
 ## Habilidades
 
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
 ![MySql](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-lightgrey?logo=javascript&style=plastic&logoColor=white&labelColor=yellow)
+
+![HTML](https://img.shields.io/badge/HTML-lightgrey?logo=html5&style=plastic&logoColor=white&labelColor=orange)
+
+![CSS](https://img.shields.io/badge/CSS-lightgrey?logo=css3&style=plastic&logoColor=white&labelColor=blue)
+
+
 
 
 
