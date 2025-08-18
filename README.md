@@ -2,9 +2,11 @@
 
 ## Formação
 
-- Técnico em Informatica
-- Engenharia de Produção
 - Pós Graduação em Análise e Desenvolvimento de Sistemas
+- Engenharia de Produção
+- Técnico em Informatica
+
+
 
 ## Sobre mim
 
