@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Desenvolvedor com experiência em Java, JavaScript e Spring Boot. Domínio em MySQL, automação com Excel e integração de sistemas. Conhecimentos em AWS, Git/GitHub e metodologias ágeis (Scrum, Kanban, Lean). Atuação também em redes e manutenção de hardware.
+Desenvolvedor com sólida experiência em Java, JavaScript e Spring Boot, atuando no desenvolvimento de aplicações robustas e escaláveis. 
 
 ## Conecte-se comigo
 
