@@ -32,7 +32,7 @@ Desenvolvedor com sólida experiência em Java, JavaScript e Spring Boot, atuand
 
 ![MySql](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
 
-![Angular] (https://img.shields.io/badge/Angular-lightgrey?logo=angular&style=plastic&logoColor=white&labelColor=red)
+![Angular](https://img.shields.io/badge/Angular-lightgrey?logo=angular&style=plastic&logoColor=white&labelColor=red)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-lightgrey?logo=javascript&style=plastic&logoColor=white&labelColor=yellow)
 
