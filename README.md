@@ -25,10 +25,10 @@ Desenvolvedor com sólida experiência em Java, JavaScript e Spring Boot, atuand
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![PHP]([https://img.shields.io/badge/PHP-lightgrey?logo=php&style=plastic&logoColor=white&labelColor=8892BE))
-
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-lightgrey?logo=angular&style=plastic&logoColor=white&labelColor=red)
-![JavaScript](https://img.shields.io/badge/JavaScript-lightgrey?logo=javascript&style=plastic&logoColor=white&labelColor=yellow)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySql](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
 ![HTML](https://img.shields.io/badge/HTML-lightgrey?logo=html5&style=plastic&logoColor=white&labelColor=orange)
 ![CSS](https://img.shields.io/badge/CSS-lightgrey?logo=css3&style=plastic&logoColor=white&labelColor=blue)
