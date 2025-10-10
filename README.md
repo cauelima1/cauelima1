@@ -25,7 +25,7 @@ Desenvolvedor com sólida experiência em Java, JavaScript e Spring Boot, atuand
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![PHP]([https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white](https://img.shields.io/badge/PHP-lightgrey?logo=php&style=plastic&logoColor=white&labelColor=8892BE))
+![PHP]([https://img.shields.io/badge/PHP-lightgrey?logo=php&style=plastic&logoColor=white&labelColor=8892BE))
 
 ![Angular](https://img.shields.io/badge/Angular-lightgrey?logo=angular&style=plastic&logoColor=white&labelColor=red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-lightgrey?logo=javascript&style=plastic&logoColor=white&labelColor=yellow)
